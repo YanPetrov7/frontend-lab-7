@@ -52,7 +52,7 @@ const Image = () => {
           <img
             key={image.id}
             className='picture'
-            src='https://github.com/YanPetrov7/frontend-lab-7/tree/gh-pages/img/rome.jpg?raw=true'
+            src='https://raw.githubusercontent.com/YanPetrov7/frontend-lab-7/gh-pages/img/rome.jpg'
             alt='Photo of Rome'
             style={{ width: `${image.width}px` }}
           />
